@@ -1,6 +1,6 @@
 # 4.Execution_of_NetworkCommands
-## NAME : GAUTHAM KRISHNA S
-## REGISTER NUMBER : 212223240036
+## NAME : LIDISON SHAM M
+## REGISTER NUMBER : 21224040171
 
 ## AIM :Use of Network commands in Real Time environment
 ## Software : 
